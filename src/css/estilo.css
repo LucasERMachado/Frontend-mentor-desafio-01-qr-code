@@ -33,7 +33,6 @@ body{
 
 .container .conteudo .descricao{
     font-size: 20px;
-    flex-wrap: wrap;
     text-align: center;
     font-weight: 700;
     color: hsl(218, 44%, 22%);
